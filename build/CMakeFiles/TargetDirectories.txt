@@ -1,3 +1,0 @@
-/home/cedric/catkin_ws/src/Udacity/build/CMakeFiles/rebuild_cache.dir
-/home/cedric/catkin_ws/src/Udacity/build/CMakeFiles/edit_cache.dir
-/home/cedric/catkin_ws/src/Udacity/build/CMakeFiles/hello_plugin.dir
