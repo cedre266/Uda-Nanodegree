@@ -1,8 +1,7 @@
-# Uda-Nanodegree
+# Udacity-Build-My-World
+Construction of a basic world in ROS Noetic and Gazebo 11.3, using the native building and model editors.
 
-## Project: Build My World
-
-Construction of a basic world in Gazebo.
+## Get Started
 
 Inside the project folder:
 ```
